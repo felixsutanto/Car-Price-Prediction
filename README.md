@@ -1,14 +1,3 @@
----
-title: "Used Car Price Prediction"
-emoji: "🚗"
-colorFrom: "blue"
-colorTo: "green"
-sdk: "streamlit"
-sdk_version: "1.32.0"
-app_file: "streamlit_app.py"
-pinned: false
----
-
 # 🚗 AI Used Car Price Prediction
 
 This is a full pipeline project to **scrape used car listings** from [Mobil123.com](https://www.mobil123.com), preprocess the data, analyze **price depreciation**, and build a **generative AI price prediction model** with a simple **Streamlit interface**.
